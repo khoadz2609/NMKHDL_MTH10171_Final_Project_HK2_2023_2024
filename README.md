@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Đây là repository cho Đồ án cuối kỳ môn "Nhập môn Khai phá Dữ liệu" (MTH10171) học kỳ 2 năm học 2023-2024. Dự án ứng dụng kỹ thuật crawling, tiền xử lý, phân tích dữ liệu và xử lý ngôn ngữ tự nhiên trên dữ liệu nhà đất được crawl từ web.
+Đây là repository cho Đồ án cuối kỳ môn "Nhập môn Khoa học dữ liệu" (MTH10171) học kỳ 2 năm học 2023-2024. Dự án ứng dụng kỹ thuật crawling, tiền xử lý, phân tích dữ liệu và xử lý ngôn ngữ tự nhiên trên dữ liệu nhà đất được crawl từ web.
 
 ## Nội dung dự án
 
